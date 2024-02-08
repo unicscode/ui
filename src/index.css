@@ -46,9 +46,9 @@
     --primary-foreground: 0 0% 100%;
     --secondary-foreground: 334 0% 100%;
     --destructive-foreground: 0 0% 100%;
-    --radius: 0.5rem;
   }
 }
+
 
 @layer base {
   * {
