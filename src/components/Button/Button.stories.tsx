@@ -12,6 +12,7 @@ export default meta;
 type Story = StoryObj<typeof Button>;
 
 export const primary: Story = {
+  tags: ["autodocs"],
   args: {
     children: "Primary",
     variant: "primary",
